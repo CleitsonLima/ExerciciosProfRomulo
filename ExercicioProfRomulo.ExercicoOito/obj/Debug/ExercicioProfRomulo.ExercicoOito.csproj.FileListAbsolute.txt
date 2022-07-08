@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\bin\Debug\ExercicioProfRomulo.ExercicoOito.exe.config
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\bin\Debug\ExercicioProfRomulo.ExercicoOito.exe
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\bin\Debug\ExercicioProfRomulo.ExercicoOito.pdb
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\obj\Debug\ExercicioProfRomulo.ExercicoOito.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\obj\Debug\ExercicioProfRomulo.ExercicoOito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\obj\Debug\ExercicioProfRomulo.ExercicoOito.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\obj\Debug\ExercicioProfRomulo.ExercicoOito.exe
+C:\Users\Aluno\Desktop\cleitson\ExerciciosProfRomulo\ExercicioProfRomulo.ExercicoOito\obj\Debug\ExercicioProfRomulo.ExercicoOito.pdb
